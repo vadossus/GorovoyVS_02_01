@@ -33,7 +33,7 @@ class MainActivity : AppCompatActivity() {
 
             if (password.isNotEmpty() && log.isNotEmpty())
             {
-                if (log == "ects" && password == "ects2024")
+                if (log == "ects" && password == "ects2025")
                 {
                     sharedPreferences.edit().apply()
                     {
