@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GorovoyVS_02_01</string>
+    <string-array name="figure">
+        <item>Круг</item>
+        <item>Треугольник</item>
+    </string-array>
+</resources>
